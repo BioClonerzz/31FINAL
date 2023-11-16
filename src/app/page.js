@@ -11,6 +11,7 @@ export default function Home() {
         <Navbar />
         <PageTitle title="Home" />
         <PageContent />
+        <p>Website created by Brad York</p>
       </div>
     </div>
   )

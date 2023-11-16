@@ -10,7 +10,7 @@ export default function About() {
       <div className="m-12">
         <Navbar />
         <PageTitle title="Contact" />
-        <PageContent />
+        <PageContent content="We hope to hear from you soon!" />
       </div>
     </div>
   )

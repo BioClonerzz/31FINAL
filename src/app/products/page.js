@@ -10,7 +10,7 @@ export default function About() {
       <div className="m-12">
         <Navbar />
         <PageTitle title="Products" />
-        <PageContent />
+        <PageContent content="Our products are the best" />
       </div>
     </div>
   )
